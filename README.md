@@ -39,7 +39,7 @@ brew install openssl
 ### Option 1: Using CMake (Recommended)
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/duplicate-file-finder.git
+   git clone https://github.com/aryanmishra11/duplicate-file-finder.git
    cd duplicate-file-finder
    ```
 
@@ -54,7 +54,7 @@ brew install openssl
 ### Option 2: Using Makefile
 1. Clone the repository:
    ```bash
-   git clone[https://github.com/aryanmishra11/DuplicateRemover]
+   git clone https://github.com/aryanmishra11/DuplicateRemover
    cd duplicate-file-finder
    ```
 
