@@ -1,0 +1,3 @@
+This is a unique file that has no duplicates.
+It contains different content from all other files.
+This file is used to test that the tool correctly identifies non-duplicate files.

@@ -1,0 +1,2 @@
+Testing file with special characters in name.
+This content will be duplicated in files with special characters.

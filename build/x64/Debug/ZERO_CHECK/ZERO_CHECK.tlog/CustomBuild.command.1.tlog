@@ -1,0 +1,10 @@
+^C:\USERS\250018975\PPO\DUPLICATE-FILE-FINDER\BUILD\CMAKEFILES\7AB260A4EE5A3CEB6D7B82A9909C246E\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/250018975/PPO/duplicate-file-finder -BC:/Users/250018975/PPO/duplicate-file-finder/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/250018975/PPO/duplicate-file-finder/build/DuplicateFileFinder.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

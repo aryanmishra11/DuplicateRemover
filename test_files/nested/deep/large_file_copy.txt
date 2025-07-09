@@ -1,0 +1,16 @@
+This is a larger test file for duplicate detection.
+Line 2: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Line 3: Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Line 4: Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+Line 5: Duis aute irure dolor in reprehenderit in voluptate velit esse.
+Line 6: Excepteur sint occaecat cupidatat non proident, sunt in culpa.
+Line 7: Qui officia deserunt mollit anim id est laborum.
+Line 8: Sed ut perspiciatis unde omnis iste natus error sit voluptatem.
+Line 9: Accusantium doloremque laudantium, totam rem aperiam eaque ipsa.
+Line 10: Quae ab illo inventore veritatis et quasi architecto beatae.
+Line 11: Vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+Line 12: Voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur.
+Line 13: Magni dolores eos qui ratione voluptatem sequi nesciunt.
+Line 14: Neque porro quisquam est, qui dolorem ipsum quia dolor sit.
+Line 15: Amet, consectetur, adipisci velit, sed quia non numquam eius.
+END OF LARGE FILE

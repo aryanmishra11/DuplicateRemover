@@ -1,0 +1,5 @@
+This is a test file for duplicate detection.
+It contains multiple lines of text.
+This content will be duplicated in several files.
+Testing duplicate file finder functionality.
+Line 5 with some special characters: !@#$%^&*()
