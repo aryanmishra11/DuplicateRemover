@@ -54,7 +54,7 @@ brew install openssl
 ### Option 2: Using Makefile
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/duplicate-file-finder.git
+   git clone[https://github.com/aryanmishra11/DuplicateRemover]
    cd duplicate-file-finder
    ```
 
@@ -246,6 +246,3 @@ After scanning, you will be presented with options to handle the duplicates:
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
